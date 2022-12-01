@@ -1,0 +1,32 @@
+C:\Users\Yeb93\Async\bin\Debug\net5.0\Async.exe
+C:\Users\Yeb93\Async\bin\Debug\net5.0\Async.deps.json
+C:\Users\Yeb93\Async\bin\Debug\net5.0\Async.runtimeconfig.json
+C:\Users\Yeb93\Async\bin\Debug\net5.0\Async.runtimeconfig.dev.json
+C:\Users\Yeb93\Async\bin\Debug\net5.0\Async.dll
+C:\Users\Yeb93\Async\bin\Debug\net5.0\ref\Async.dll
+C:\Users\Yeb93\Async\bin\Debug\net5.0\Async.pdb
+C:\Users\Yeb93\Async\obj\Debug\net5.0\Async.csproj.AssemblyReference.cache
+C:\Users\Yeb93\Async\obj\Debug\net5.0\Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeb93\Async\obj\Debug\net5.0\Async.AssemblyInfoInputs.cache
+C:\Users\Yeb93\Async\obj\Debug\net5.0\Async.AssemblyInfo.cs
+C:\Users\Yeb93\Async\obj\Debug\net5.0\Async.csproj.CoreCompileInputs.cache
+C:\Users\Yeb93\Async\obj\Debug\net5.0\Async.dll
+C:\Users\Yeb93\Async\obj\Debug\net5.0\ref\Async.dll
+C:\Users\Yeb93\Async\obj\Debug\net5.0\Async.pdb
+C:\Users\Yeb93\Async\obj\Debug\net5.0\Async.genruntimeconfig.cache
+C:\Users\youne\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.csproj.AssemblyReference.cache
+C:\Users\youne\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youne\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.AssemblyInfoInputs.cache
+C:\Users\youne\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.AssemblyInfo.cs
+C:\Users\youne\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.csproj.CoreCompileInputs.cache
+C:\Users\youne\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.dll
+C:\Users\youne\Portfolio 2\Week11\Async\obj\Debug\net5.0\ref\Async.dll
+C:\Users\youne\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.pdb
+F:\Leerjaar 2 2021-2022\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.csproj.AssemblyReference.cache
+F:\Leerjaar 2 2021-2022\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.GeneratedMSBuildEditorConfig.editorconfig
+F:\Leerjaar 2 2021-2022\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.AssemblyInfoInputs.cache
+F:\Leerjaar 2 2021-2022\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.AssemblyInfo.cs
+F:\Leerjaar 2 2021-2022\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.csproj.CoreCompileInputs.cache
+F:\Leerjaar 2 2021-2022\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.dll
+F:\Leerjaar 2 2021-2022\Portfolio 2\Week11\Async\obj\Debug\net5.0\ref\Async.dll
+F:\Leerjaar 2 2021-2022\Portfolio 2\Week11\Async\obj\Debug\net5.0\Async.pdb

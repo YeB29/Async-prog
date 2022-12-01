@@ -1,0 +1,60 @@
+@model Student
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Naam)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Naam)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Achternaam)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Achternaam)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Leeftijd)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Leeftijd)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Woonplaats)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Woonplaats)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Lengte)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Lengte)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+<footer>
+    
+</footer>
+</body>
+</html>

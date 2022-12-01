@@ -1,0 +1,72 @@
+@model IEnumerable<Student>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Naam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Achternaam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Leeftijd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Woonplaats)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lengte)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Naam)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Achternaam)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Leeftijd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Woonplaats)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lengte)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<footer>
+    <partial name ="CPv">
+        <p>hall</p>
+</footer>
+</body>
+</html>
